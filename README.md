@@ -1,1 +1,1 @@
-// Goods Exchange Client App
+# Goods Exchange Client App (Angular)
